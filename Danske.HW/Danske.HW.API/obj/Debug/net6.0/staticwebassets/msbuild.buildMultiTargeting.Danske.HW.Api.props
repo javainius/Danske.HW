@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Danske.HW.API.props" />
+</Project>

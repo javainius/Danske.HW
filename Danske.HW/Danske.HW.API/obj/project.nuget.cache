@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6vm8Qi4CMJv9x2nGqGCslT0tlC2yxPfzs+hj5CzkiTmDsLwNfbkOYma/pGUgBBd1+09DXrCHOy/YnfVC91MqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\waini\\Desktop\\programing interviews 2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\Danske.HW.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\waini\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\waini\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\waini\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\waini\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\waini\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\waini\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
