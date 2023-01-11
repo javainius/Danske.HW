@@ -17,14 +17,14 @@ public class Startup
         services.AddControllers();
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();
+        //services.AddSwaggerGen(c =>
+        //{
+        //    c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+        //    c.ExampleFilters();
+        //    c.ExampleProvider<NumberContractExample>(typeof(NumberContractExample));
+        //});
 
-        services.AddTransient<INumberService, NumberService>();
-
-        var filePath = Configuration.GetValue<string>("RepositoryFilePath");
-        services.AddTransient<INumberRepository>(provider => new NumberRepository(filePath));
-
-
-        services.AddAutoMapper(typeof(MappingProfile));
+        AddServices(services);
     }
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -45,5 +45,16 @@ public class Startup
         });
 
         app.UseHttpsRedirection();
+    }
+
+    private void AddServices(IServiceCollection services)
+    {
+        services.AddTransient<INumberService, NumberService>();
+
+        var filePath = Configuration.GetValue<string>("RepositoryFilePath");
+        services.AddTransient<INumberRepository>(provider => new NumberRepository(filePath));
+
+
+        services.AddAutoMapper(typeof(MappingProfile));
     }
 }

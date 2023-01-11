@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{0592B92C-186B-41F1-A161-696257B95172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Danske.HW.UnitTests", "Danske.HW.UnitTests\Danske.HW.UnitTests.csproj", "{C56261A6-D436-4AF0-B500-3B9E53928A1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{613FDB54-A7A5-4D84-B6C8-6750AE0B8AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{613FDB54-A7A5-4D84-B6C8-6750AE0B8AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{613FDB54-A7A5-4D84-B6C8-6750AE0B8AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C56261A6-D436-4AF0-B500-3B9E53928A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56261A6-D436-4AF0-B500-3B9E53928A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56261A6-D436-4AF0-B500-3B9E53928A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56261A6-D436-4AF0-B500-3B9E53928A1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

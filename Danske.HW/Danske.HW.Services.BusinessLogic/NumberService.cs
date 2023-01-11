@@ -32,7 +32,7 @@ namespace Danske.HW.BusinessLogic
             return _mapper.Map<NumberModel>(numbers);
         }
 
-        private static int[] SortNumbers(int[] numbers)
+        private static List<int> SortNumbers(List<int> numbers)
         {
             bool isSorted = false;
             while (!isSorted)
@@ -44,9 +44,9 @@ namespace Danske.HW.BusinessLogic
             return numbers;
         }
 
-        private static int[] BubbleSortIteration(int[] numbers, ref bool isSorted)
+        private static List<int> BubbleSortIteration(List<int> numbers, ref bool isSorted)
         {
-            for (int i = 0; i < numbers.Length - 1; i++)
+            for (int i = 0; i < numbers.Count - 1; i++)
             {
                 if (numbers[i] > numbers[i + 1])
                 {

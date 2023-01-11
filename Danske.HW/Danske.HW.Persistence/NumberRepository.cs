@@ -22,11 +22,19 @@ namespace Danske.HW.Persistence
 
         public NumberEntity ReadNumbers()
         {
-            var numbers = File.ReadAllLines(_filePath)
-                        .Select(x => int.Parse(x))
-                        .ToArray();
+            if (File.Exists(_filePath))
+            {
+                var numbers = File.ReadAllLines(_filePath).Select(x => int.Parse(x));
 
-            return new NumberEntity { Numbers = numbers };
+                return new NumberEntity { Numbers = numbers.ToList() };
+            }
+            else
+            {
+                // there should be an exception wrapper created which wraps the service
+                // layer and through configuration (in startup class) puts the service under the wrapper
+                // but not sure if that's the scope of this task
+                throw new FileNotFoundException("Resource file was not found");
+            }
         }
     }
 }

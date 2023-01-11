@@ -20,6 +20,8 @@ namespace SortNumbersAPI.Controllers
         }
 
         [HttpPost]
+        //[SwaggerRequestExample(typeof(NumberContract), typeof(NumberContractExample))]
+        //[SwaggerResponseExample(200, typeof(NumberContractExample))]
         public async Task<IActionResult> SaveSortedNumbers(NumberContract numberContract)
         {
             var numberModel = _mapper.Map<NumberModel>(numberContract);

@@ -2,6 +2,6 @@
 {
     public class NumberEntity
     {
-        public int[] Numbers { get; set; }
+        public List<int> Numbers { get; set; }
     }
 }
