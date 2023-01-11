@@ -1,0 +1,12 @@
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\bin\Debug\net6.0\Danske.HW.Contracts.deps.json
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\bin\Debug\net6.0\Danske.HW.Contracts.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\bin\Debug\net6.0\Danske.HW.Contracts.pdb
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\obj\Debug\net6.0\Danske.HW.Contracts.csproj.AssemblyReference.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\obj\Debug\net6.0\Danske.HW.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\obj\Debug\net6.0\Danske.HW.Contracts.AssemblyInfoInputs.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\obj\Debug\net6.0\Danske.HW.Contracts.AssemblyInfo.cs
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\obj\Debug\net6.0\Danske.HW.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\obj\Debug\net6.0\Danske.HW.Contracts.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\obj\Debug\net6.0\refint\Danske.HW.Contracts.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\obj\Debug\net6.0\Danske.HW.Contracts.pdb
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Contracts\obj\Debug\net6.0\ref\Danske.HW.Contracts.dll

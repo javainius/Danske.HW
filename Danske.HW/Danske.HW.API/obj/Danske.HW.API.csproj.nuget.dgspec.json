@@ -1,17 +1,111 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\waini\\Desktop\\programing interviews 2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\Danske.HW.API.csproj": {}
+    "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\Danske.HW.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\waini\\Desktop\\programing interviews 2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\Danske.HW.API.csproj": {
+    "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\Danske.HW.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\waini\\Desktop\\programing interviews 2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\Danske.HW.API.csproj",
+        "projectUniqueName": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\Danske.HW.API.csproj",
         "projectName": "Danske.HW.API",
-        "projectPath": "C:\\Users\\waini\\Desktop\\programing interviews 2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\Danske.HW.API.csproj",
+        "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\Danske.HW.API.csproj",
         "packagesPath": "C:\\Users\\waini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\waini\\Desktop\\programing interviews 2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\obj\\",
+        "outputPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Contracts\\Danske.HW.Contracts.csproj": {
+                "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Contracts\\Danske.HW.Contracts.csproj"
+              },
+              "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Persistence\\Danske.HW.Persistence.csproj": {
+                "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Persistence\\Danske.HW.Persistence.csproj"
+              },
+              "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Services.BusinessLogic\\Danske.HW.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Services.BusinessLogic\\Danske.HW.BusinessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Contracts\\Danske.HW.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Contracts\\Danske.HW.Contracts.csproj",
+        "projectName": "Danske.HW.Contracts",
+        "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Contracts\\Danske.HW.Contracts.csproj",
+        "packagesPath": "C:\\Users\\waini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\waini\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,10 +133,241 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Entities\\Danske.HW.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Entities\\Danske.HW.Entities.csproj",
+        "projectName": "Danske.HW.Entities",
+        "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Entities\\Danske.HW.Entities.csproj",
+        "packagesPath": "C:\\Users\\waini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Models\\Danske.HW.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Models\\Danske.HW.Models.csproj",
+        "projectName": "Danske.HW.Models",
+        "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Models\\Danske.HW.Models.csproj",
+        "packagesPath": "C:\\Users\\waini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Persistence\\Danske.HW.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Persistence\\Danske.HW.Persistence.csproj",
+        "projectName": "Danske.HW.Persistence",
+        "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Persistence\\Danske.HW.Persistence.csproj",
+        "packagesPath": "C:\\Users\\waini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Entities\\Danske.HW.Entities.csproj": {
+                "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Entities\\Danske.HW.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Services.BusinessLogic\\Danske.HW.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Services.BusinessLogic\\Danske.HW.BusinessLogic.csproj",
+        "projectName": "Danske.HW.BusinessLogic",
+        "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Services.BusinessLogic\\Danske.HW.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\waini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Services.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\waini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Models\\Danske.HW.Models.csproj": {
+                "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Models\\Danske.HW.Models.csproj"
+              },
+              "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Persistence\\Danske.HW.Persistence.csproj": {
+                "projectPath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Persistence\\Danske.HW.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
-            "Swashbuckle.AspNetCore": {
+            "AutoMapper": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[12.0.0, )"
             }
           },
           "imports": [
@@ -57,9 +382,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

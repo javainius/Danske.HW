@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oO+6XnWzc8fAJx4gCZccPKUIuWPJ3ciueWur73ZujRM4SejOP1LlFH9Z/KHLGm0MRW9RpWCuRsvE+E4hqMrCrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\waini\\Desktop\\programingInterviews2\\Danske\\Danske.HW\\Danske.HW\\Danske.HW.Services.BusinessLogic\\Danske.HW.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\waini\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\waini\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

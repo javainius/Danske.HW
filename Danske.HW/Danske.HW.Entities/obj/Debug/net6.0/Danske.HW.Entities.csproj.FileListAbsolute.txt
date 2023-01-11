@@ -1,0 +1,12 @@
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\bin\Debug\net6.0\Danske.HW.Entities.deps.json
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\bin\Debug\net6.0\Danske.HW.Entities.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\bin\Debug\net6.0\Danske.HW.Entities.pdb
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\obj\Debug\net6.0\Danske.HW.Entities.csproj.AssemblyReference.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\obj\Debug\net6.0\Danske.HW.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\obj\Debug\net6.0\Danske.HW.Entities.AssemblyInfoInputs.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\obj\Debug\net6.0\Danske.HW.Entities.AssemblyInfo.cs
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\obj\Debug\net6.0\Danske.HW.Entities.csproj.CoreCompileInputs.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\obj\Debug\net6.0\Danske.HW.Entities.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\obj\Debug\net6.0\refint\Danske.HW.Entities.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\obj\Debug\net6.0\Danske.HW.Entities.pdb
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Entities\obj\Debug\net6.0\ref\Danske.HW.Entities.dll

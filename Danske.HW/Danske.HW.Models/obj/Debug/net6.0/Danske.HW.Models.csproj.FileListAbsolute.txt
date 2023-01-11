@@ -1,0 +1,12 @@
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\bin\Debug\net6.0\Danske.HW.Models.deps.json
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\bin\Debug\net6.0\Danske.HW.Models.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\bin\Debug\net6.0\Danske.HW.Models.pdb
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\obj\Debug\net6.0\Danske.HW.Models.csproj.AssemblyReference.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\obj\Debug\net6.0\Danske.HW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\obj\Debug\net6.0\Danske.HW.Models.AssemblyInfoInputs.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\obj\Debug\net6.0\Danske.HW.Models.AssemblyInfo.cs
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\obj\Debug\net6.0\Danske.HW.Models.csproj.CoreCompileInputs.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\obj\Debug\net6.0\Danske.HW.Models.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\obj\Debug\net6.0\refint\Danske.HW.Models.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\obj\Debug\net6.0\Danske.HW.Models.pdb
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Models\obj\Debug\net6.0\ref\Danske.HW.Models.dll

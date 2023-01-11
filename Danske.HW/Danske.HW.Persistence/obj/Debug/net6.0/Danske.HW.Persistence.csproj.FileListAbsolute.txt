@@ -1,0 +1,15 @@
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\bin\Debug\net6.0\Danske.HW.Persistence.deps.json
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\bin\Debug\net6.0\Danske.HW.Persistence.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\bin\Debug\net6.0\Danske.HW.Persistence.pdb
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\bin\Debug\net6.0\Danske.HW.Entities.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\bin\Debug\net6.0\Danske.HW.Entities.pdb
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\Danske.HW.Persistence.csproj.AssemblyReference.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\Danske.HW.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\Danske.HW.Persistence.AssemblyInfoInputs.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\Danske.HW.Persistence.AssemblyInfo.cs
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\Danske.HW.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\Danske.HW.Persistence.csproj.CopyComplete
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\Danske.HW.Persistence.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\refint\Danske.HW.Persistence.dll
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\Danske.HW.Persistence.pdb
+C:\Users\waini\Desktop\programingInterviews2\Danske\Danske.HW\Danske.HW\Danske.HW.Persistence\obj\Debug\net6.0\ref\Danske.HW.Persistence.dll
